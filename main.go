@@ -4,8 +4,14 @@ func main() {
 	fmt.Println("Welcome to our conference booking application")
 	fmt.Println("Get your ticket here to attend the conference")
 
-	conferenceName :="Go Conference"
-	fmt.Println("Conference Name: ", conferenceName)
+	conferenceName1 := "Go Conference"
+	fmt.Println("Conference Name: ", conferenceName1)
+
+	var conferenceName2 string = "Go Conference"
+	fmt.Println("Conference Name: ", conferenceName2)
+
+	const conferenceName3 = 50
+	fmt.Println("Conference Name: ", conferenceName3)
 
 	name := "Go Conference"
 	fmt.Println("Conference Name: ", name) 

@@ -18,6 +18,10 @@ func main() {
 	//golang is a very powerful language
 	// i want some more details about the conference
 	// i want to became master in git and github
+	var username string ;
+	fmt.Println("Enter your name: ")
+	fmt.Scanln(&username)
+	fmt.Println("Username: ", username)
 	
 	
 }

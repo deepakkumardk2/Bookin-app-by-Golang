@@ -6,7 +6,8 @@ func main() {
 
 	name := "Go Conference"
 	fmt.Println("Conference Name: ", name) 
-	fmt.Println("Conference Name: ", name) 
+	// i want some more details about the conference
+	// i want to became master in git and github
 	
 	
 }

@@ -6,6 +6,7 @@ func main() {
 
 	name := "Go Conference"
 	fmt.Println("Conference Name: ", name) 
+	//golang is a very powerful language
 	// i want some more details about the conference
 	// i want to became master in git and github
 	
